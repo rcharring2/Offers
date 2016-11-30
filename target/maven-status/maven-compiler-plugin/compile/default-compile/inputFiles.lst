@@ -1,0 +1,15 @@
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/dao/User.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/dao/OfferRowMapper.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/service/OffersService.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/controllers/OffersControler.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/validation/ValidEmail.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/validation/ValidEmailImpl.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/controllers/HomeController.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/controllers/ErrorHandler.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/dao/MessagesDao.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/service/UsersService.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/controllers/LoginController.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/dao/UsersDAO.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/dao/Message.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/dao/OffersDAO.java
+/Users/jdharring/AdvancedProgramming/workspace-sts/Lecture170/src/edu/elon/lectures/web/dao/Offer.java

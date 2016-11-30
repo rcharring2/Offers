@@ -1,0 +1,1 @@
+YOur offer has been deleted.
